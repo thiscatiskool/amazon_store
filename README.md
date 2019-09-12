@@ -1,1 +1,3 @@
 # amazon_store
+
+The purpose of this exercise is to demonstate the ability to create a database and set up a table using integers and variables.  Along with the initial creation of the database this assignment uses and UPDATE command update the data in the table when promted by a customer input.  Included in the images folder is a snapshot of steps made in creating this assignment and demonstrating that it works as intended.
